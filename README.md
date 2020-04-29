@@ -11,7 +11,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Test it on the included test folder `./test` or on a real media folder.
+Unzip the `test.zip` file and test on that folder or on a real media folder.
 
 ```
 usage: cleaner.py [-h] [-s SCANFOLDER] [-v] [-a] [-fe] [-fn] [-iy] [-is]
